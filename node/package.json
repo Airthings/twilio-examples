@@ -1,0 +1,17 @@
+{
+  "name": "airthings-twilio-node",
+  "version": "1.0.0",
+  "description": "Sending SMS messages via Twilio using the Airthings API",
+  "main": "basic-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyler McAllister",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "twilio": "^3.37.0"
+  }
+}
